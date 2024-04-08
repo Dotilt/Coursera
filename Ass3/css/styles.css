@@ -1,1 +1,28 @@
+.navbar {
+  margin: 0;
+  background-color: lightsalmon;
+}
 
+.navbar-brand {
+  height: 0%;
+  background-color: lightcoral;
+}
+
+ul {
+   background-color: lightpink;
+}
+
+
+h2 {
+  margin: 0;
+  background-color: lightblue;
+  height: 60px;
+  line-height: 60px;
+}
+
+#content {
+  padding: 20px;
+  background-color: lightcyan;
+  height: 1000px;
+}
+ 
